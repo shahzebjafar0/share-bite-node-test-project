@@ -16,13 +16,13 @@ mysql
 #### Clone the project
 
 ```bash
-  git clone git@github.com:MuhammadMurtza/sharebitetest.git
+  git clone git@github.com:shahzebjafar0/sharebitetest.git
 ```
 
 #### Go to the project directory
 
 ```bash
-  cd sharebitetest
+  cd share-bite-node-test-project
 ```
 
 #### Install dependencies
